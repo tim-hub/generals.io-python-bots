@@ -3,6 +3,7 @@
 It is a bot for the [generals.io](http://bot.generals.io) 
 
 ![view the bot playing and making decisions](https://i.imgur.com/E74R7Vz.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftim-hub%2Fgenerals.io-python-bot-TNT.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftim-hub%2Fgenerals.io-python-bot-TNT?ref=badge_shield)
 
 ## Why call it TNT
 
@@ -32,3 +33,6 @@ I believe `Neural networks` and `Deep learning` will make the bot better and mar
 The Project is under EPL 1.0 License.
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftim-hub%2Fgenerals.io-python-bot-TNT.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftim-hub%2Fgenerals.io-python-bot-TNT?ref=badge_large)
